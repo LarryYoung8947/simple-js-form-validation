@@ -1,0 +1,2 @@
+*****************************
+This is a simple login form that uses regEx and JavaScript to do simple form validations. This file will be updated occasionally with new conditions for username and password to meet as more RegEx concepts are mastered
